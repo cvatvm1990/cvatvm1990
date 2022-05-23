@@ -15,6 +15,8 @@
 **Siva**
 *Siva*
 > Siva
+> 
+> Hey everyone out there! I'm really super excited to be a part of GitHub and learn all about this platform.
 
 --------------
 
